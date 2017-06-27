@@ -1,0 +1,69 @@
+﻿@model IEnumerable<BS.MinhasLeituras.Application.ViewModels.LeituraViewModel>
+
+@{
+    ViewBag.Title = "Minhas Leituras";
+}
+
+<h2>Minhas Leituras</h2>
+
+<p>
+    @Html.ActionLink("Nova Leitura", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TituloLivro)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AutorLivro)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.QuantidadePaginas)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.QuantidadePaginasMeta)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DataInicioLeitura)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DataFimLeitura)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Status)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.TituloLivro)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AutorLivro)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.QuantidadePaginas)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.QuantidadePaginasMeta)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DataInicioLeitura)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DataFimLeitura)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Status)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.LeituraId }) |
+            @Html.ActionLink("Detalhes", "Details", new { id=item.LeituraId }) |
+            @Html.ActionLink("Excluir", "Delete", new { id=item.LeituraId })
+        </td>
+    </tr>
+}
+
+</table>

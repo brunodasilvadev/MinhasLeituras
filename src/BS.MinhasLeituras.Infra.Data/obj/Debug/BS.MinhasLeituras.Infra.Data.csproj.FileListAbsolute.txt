@@ -1,0 +1,14 @@
+C:\MinhasLeituras\MinhasLeituras\src\BS.MinhasLeituras.Infra.Data\bin\Debug\BS.MinhasLeituras.Infra.Data.dll.config
+C:\MinhasLeituras\MinhasLeituras\src\BS.MinhasLeituras.Infra.Data\bin\Debug\BS.MinhasLeituras.Infra.Data.dll
+C:\MinhasLeituras\MinhasLeituras\src\BS.MinhasLeituras.Infra.Data\bin\Debug\BS.MinhasLeituras.Infra.Data.pdb
+C:\MinhasLeituras\MinhasLeituras\src\BS.MinhasLeituras.Infra.Data\bin\Debug\BS.MinhasLeituras.Domain.dll
+C:\MinhasLeituras\MinhasLeituras\src\BS.MinhasLeituras.Infra.Data\bin\Debug\Dapper.dll
+C:\MinhasLeituras\MinhasLeituras\src\BS.MinhasLeituras.Infra.Data\bin\Debug\EntityFramework.dll
+C:\MinhasLeituras\MinhasLeituras\src\BS.MinhasLeituras.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\MinhasLeituras\MinhasLeituras\src\BS.MinhasLeituras.Infra.Data\bin\Debug\BS.MinhasLeituras.Domain.pdb
+C:\MinhasLeituras\MinhasLeituras\src\BS.MinhasLeituras.Infra.Data\bin\Debug\Dapper.xml
+C:\MinhasLeituras\MinhasLeituras\src\BS.MinhasLeituras.Infra.Data\bin\Debug\EntityFramework.xml
+C:\MinhasLeituras\MinhasLeituras\src\BS.MinhasLeituras.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\MinhasLeituras\MinhasLeituras\src\BS.MinhasLeituras.Infra.Data\obj\Debug\BS.MinhasLeituras.Infra.Data.csprojResolveAssemblyReference.cache
+C:\MinhasLeituras\MinhasLeituras\src\BS.MinhasLeituras.Infra.Data\obj\Debug\BS.MinhasLeituras.Infra.Data.dll
+C:\MinhasLeituras\MinhasLeituras\src\BS.MinhasLeituras.Infra.Data\obj\Debug\BS.MinhasLeituras.Infra.Data.pdb

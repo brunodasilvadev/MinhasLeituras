@@ -1,0 +1,6 @@
+C:\MinhasLeituras\MinhasLeituras\src\BS.MinhasLeituras.Domain\bin\Debug\BS.MinhasLeituras.Domain.dll
+C:\MinhasLeituras\MinhasLeituras\src\BS.MinhasLeituras.Domain\bin\Debug\BS.MinhasLeituras.Domain.pdb
+C:\MinhasLeituras\MinhasLeituras\src\BS.MinhasLeituras.Domain\bin\Debug\DomainValidation.dll
+C:\MinhasLeituras\MinhasLeituras\src\BS.MinhasLeituras.Domain\obj\Debug\BS.MinhasLeituras.Domain.csprojResolveAssemblyReference.cache
+C:\MinhasLeituras\MinhasLeituras\src\BS.MinhasLeituras.Domain\obj\Debug\BS.MinhasLeituras.Domain.dll
+C:\MinhasLeituras\MinhasLeituras\src\BS.MinhasLeituras.Domain\obj\Debug\BS.MinhasLeituras.Domain.pdb

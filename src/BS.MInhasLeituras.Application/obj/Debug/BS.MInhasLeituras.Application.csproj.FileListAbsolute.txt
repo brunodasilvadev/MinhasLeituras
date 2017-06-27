@@ -1,0 +1,15 @@
+C:\MinhasLeituras\MinhasLeituras\src\BS.MInhasLeituras.Application\bin\Debug\BS.MInhasLeituras.Application.dll
+C:\MinhasLeituras\MinhasLeituras\src\BS.MInhasLeituras.Application\bin\Debug\BS.MInhasLeituras.Application.pdb
+C:\MinhasLeituras\MinhasLeituras\src\BS.MInhasLeituras.Application\bin\Debug\AutoMapper.dll
+C:\MinhasLeituras\MinhasLeituras\src\BS.MInhasLeituras.Application\bin\Debug\BS.MinhasLeituras.Domain.dll
+C:\MinhasLeituras\MinhasLeituras\src\BS.MInhasLeituras.Application\bin\Debug\BS.MinhasLeituras.Infra.Data.dll
+C:\MinhasLeituras\MinhasLeituras\src\BS.MInhasLeituras.Application\bin\Debug\EntityFramework.dll
+C:\MinhasLeituras\MinhasLeituras\src\BS.MInhasLeituras.Application\bin\Debug\Dapper.dll
+C:\MinhasLeituras\MinhasLeituras\src\BS.MInhasLeituras.Application\bin\Debug\BS.MinhasLeituras.Domain.pdb
+C:\MinhasLeituras\MinhasLeituras\src\BS.MInhasLeituras.Application\bin\Debug\BS.MinhasLeituras.Infra.Data.pdb
+C:\MinhasLeituras\MinhasLeituras\src\BS.MInhasLeituras.Application\bin\Debug\AutoMapper.xml
+C:\MinhasLeituras\MinhasLeituras\src\BS.MInhasLeituras.Application\bin\Debug\EntityFramework.xml
+C:\MinhasLeituras\MinhasLeituras\src\BS.MInhasLeituras.Application\bin\Debug\Dapper.xml
+C:\MinhasLeituras\MinhasLeituras\src\BS.MInhasLeituras.Application\obj\Debug\BS.MInhasLeituras.Application.csprojResolveAssemblyReference.cache
+C:\MinhasLeituras\MinhasLeituras\src\BS.MInhasLeituras.Application\obj\Debug\BS.MInhasLeituras.Application.dll
+C:\MinhasLeituras\MinhasLeituras\src\BS.MInhasLeituras.Application\obj\Debug\BS.MInhasLeituras.Application.pdb
